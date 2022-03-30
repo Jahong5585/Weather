@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_grph"
+    app:startDestination="@id/homeWeatherFragment">
+
+    <fragment
+        android:id="@+id/homeWeatherFragment"
+        android:name="com.example.myweather.ui.HomeWeatherFragment"
+        android:label="fragment_home_weather"
+        tools:layout="@layout/fragment_home_weather" />
+    <fragment
+        android:id="@+id/wholeWeekFragment"
+        android:name="com.example.myweather.ui.WholeWeekFragment"
+        android:label="fragment_whole_week"
+        tools:layout="@layout/fragment_whole_week" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.example.myweather.ui.MapsFragment"
+        android:label="MapsFragment" />
+
+</navigation>

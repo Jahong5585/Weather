@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">my weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="air_quality">Air Quality</string>
+    <string name="real_feel">Feels Like</string>
+    <string name="wind_speed">Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="chance_of_rain">Chance of …</string>
+    <string name="uv_index">UV Index</string>
+    <string name="visibility">Visibility</string>
+    <string name="forecast_report">Forecast report</string>
+    <string name="all">All ></string>
+    <string name="hourly">Hourly forecast</string>
+    <string name="daily_forecast">Daily forecast</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
